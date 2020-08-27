@@ -1,0 +1,7 @@
+README.rst
+setup.py
+gameofgreed/__init__.py
+gameofgreed.egg-info/PKG-INFO
+gameofgreed.egg-info/SOURCES.txt
+gameofgreed.egg-info/dependency_links.txt
+gameofgreed.egg-info/top_level.txt
